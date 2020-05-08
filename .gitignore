@@ -2,7 +2,6 @@
 /projects/
 .project
 /build/
-/ForgeGradle/
 /.idea/
 /out/
 /installer/*.zip
