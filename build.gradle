@@ -267,7 +267,7 @@ class CheckModifiedHelper {
     }
 }
 
-// ===== FIXES ===== //
+// ===== FIXES BUGS ===== //
 
 // Fix recompilation requiring extractSrg output
 setup.dependsOn ':clean:extractSrg'
