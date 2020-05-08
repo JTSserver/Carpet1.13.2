@@ -2,7 +2,7 @@
 
 ------
 
-[中文](https://github.com/TISUnion/TISCarpet113/blob/TIS-Server/docs/Features_cn.md)
+[中文](https://github.com/JTSserver/Carpet1.13.2/blob/TIS-Server/docs/README_cn.md)
 
 **Notice**: Features here maybe incomplete, some features in original carpet or developing features may not appear here
 
